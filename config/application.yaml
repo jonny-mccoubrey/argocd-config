@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.houston.softwaregrp.net:Jonathan-McCoubrey/argocd-config.git
+    repoURL: https://github.com/jonny-mccoubrey/argocd-config.git
     targetRevision: HEAD
     path: dev
   destination:
